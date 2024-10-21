@@ -1,0 +1,8 @@
+settings:
+ link-service: ui:8080:8080,api:11434:11434
+ projects:
+     - ai-assist
+     - ai-assist-build
+ai-assist:
+ includeFiles:
+     - run.sh
