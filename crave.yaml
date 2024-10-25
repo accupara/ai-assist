@@ -5,4 +5,3 @@ settings:
      - ai-assist-build
 ai-assist:
  includeFiles:
-     - run.sh
