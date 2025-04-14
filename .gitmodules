@@ -1,0 +1,3 @@
+[submodule "apps/document_qa_assistant"]
+	path = apps/document_qa_assistant
+	url = git@github.com:accupara/document_qa_assistant.git
